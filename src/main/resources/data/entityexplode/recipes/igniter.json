@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "entityexplode:igniter_raw"
+  },
+  "addition": {
+    "item": "entityexplode:igniter_explosive"
+  },
+  "result": {
+    "item": "entityexplode:igniter"
+  }
+}
