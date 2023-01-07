@@ -1,0 +1,8 @@
+{
+  "igniter_shoot": {
+    "sounds": [ "entityexplode:igniter_shoot" ]
+  },
+  "ignition_arrow_hit": {
+    "sounds": [ "entityexplode:ignition_arrow_hit" ]
+  }
+}
